@@ -1,0 +1,1 @@
+game = "Welcome to a game"
